@@ -1,0 +1,21 @@
+{
+  "name": "express-checkpoint",
+  "version": "1.0.0",
+  "description": "checkpoint express",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "express checkpoint"
+  },
+  "author": "hassen amri",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
